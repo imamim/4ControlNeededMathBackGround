@@ -7,3 +7,6 @@
 
 
 ## Anahtar Konu Başlıkları
+
+Stochastic Systems
+Deterministic Systems
