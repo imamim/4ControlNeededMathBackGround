@@ -8,5 +8,10 @@
 
 ## Anahtar Konu Başlıkları
 
-Stochastic Systems
-Deterministic Systems
+- Stochastic Systems
+- Deterministic Systems
+- Dynamical Systems
+
+- Game Theory
+- Optimization
+- 
